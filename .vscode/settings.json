@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Elija\\Downloads\\core.jar"
+    ],
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ]
+}
